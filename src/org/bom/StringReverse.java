@@ -13,20 +13,13 @@ public class StringReverse {
 		
     System.out.println("My:"+s);
 		
-		
-	
 		String[] d = s.split(" ");
 		
-	   
-		
-		for (int i=d.length-1; i>=0; i--) {
+	   for (int i=d.length-1; i>=0; i--) {
 			
+			String x = d[i];
 			
-		String x = d[i];
-			
-		
 		b = b+" "+x;
-		System.out.println(b);
 	}
 	System.out.println(b);
 }
