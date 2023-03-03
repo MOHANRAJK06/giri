@@ -25,8 +25,8 @@ public class StringReverse {
 	
 	System.out.println("String");
 	System.out.println("Success");
-	System.out.println("END");
-	System.out.println("SARAVANA");
+	System.out.println("MMS");
+	
 }
 		
 	
