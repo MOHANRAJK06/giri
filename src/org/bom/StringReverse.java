@@ -7,8 +7,8 @@ public class StringReverse {
 	
 	public static void main(String[] args) {
 		
-		String s = "My name is sam";
-		String b ="";
+		String s = "My name is sarathkumar";
+		String b ="Anbu";
 		
 		
     System.out.println("My:"+s);
